@@ -32,3 +32,11 @@ VIM style arrow movement is utilized to avoid shifting hands to the arrow keys.
       * `CMD + E, h` snap a window to the left half
       * `CMD + E, space` snap a window to full screen
       * `CMD + E, o` snap a window to the top right quarter
+
+[//]: # (TODO: MacOS window switching)
+
+[//]: # (Programming)
+[//]: # (TODO: Mosh)
+[//]: # (TODO: Tmux)
+[//]: # (TODO: Terminal alias)
+[//]: # (TODO: Terminal VIM shortcuts)
