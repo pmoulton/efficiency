@@ -1,8 +1,13 @@
+
 # Efficiency
 Efficiency tips for human–computer interaction
 
+### Principles
 This guide prioritizes avoiding mouse usage and minimizing keystrokes while using standard peripherals.
 
+VIM style arrow movement is utilized to avoid shifting hands to the arrow keys.
+
+### MacOS recommendations
 
 1. [Alfred](https://www.alfredapp.com/)
     * Alfred provides fast access to common operations
@@ -19,4 +24,3 @@ This guide prioritizes avoiding mouse usage and minimizing keystrokes while usin
         * `dpmoulton` for @pmoulton diffs
         * `tpmoulton` for @pmoulton tasks     
         * `dqueue` for my diff queue
-   
