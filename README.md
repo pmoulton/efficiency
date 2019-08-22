@@ -27,11 +27,11 @@ VIM style arrow movement is utilized to avoid shifting hands to the arrow keys.
 2. __[Divvy](https://mizage.com/divvy/)__
     * Divvy enables fast window resizing with a single hotkey of your choice
     * The following commands are user configurable
-      * `CMD + E` open Divvy
-      * `CMD + E, l` snap a window to the right half
-      * `CMD + E, h` snap a window to the left half
-      * `CMD + E, space` snap a window to full screen
-      * `CMD + E, o` snap a window to the top right quarter
+    * Shortcuts are accessible by `CMD + E` and typing the command
+      * `l` snap a window to the right half
+      * `h` snap a window to the left half
+      * `space` snap a window to full screen
+      * `o` snap a window to the top right quarter
 
 [//]: # (TODO: MacOS window switching)
 
