@@ -9,7 +9,7 @@ VIM style arrow movement is utilized to avoid shifting hands to the arrow keys.
 
 ### MacOS recommendations
 
-1. [Alfred](https://www.alfredapp.com/)
+1. __[Alfred](https://www.alfredapp.com/)__
     * Alfred provides fast access to common operations
     * Shortcuts are accessible by `CMD + space` and typing the prefix of the command
       * Website bookmarks `bookmark_name`
