@@ -40,7 +40,11 @@ VIM style arrow movement is utilized to avoid shifting hands to the arrow keys.
 		* `n` snap a window to the bottom left quarter
 
 
-[//]: # (TODO: MacOS window switching)
+3. __Mission control space switching__
+	* Note: `⌃` denotes control
+	* See: [pmoulton/keyboard](https://github.com/pmoulton/keyboard) for capslock to control/esc mod
+	* `⌃H` move one space left
+	* `⌃L` move one space right
 
 [//]: # (Programming)
 [//]: # (TODO: Mosh)
