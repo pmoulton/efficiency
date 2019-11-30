@@ -46,8 +46,14 @@ VIM style arrow movement is utilized to avoid shifting hands to the arrow keys.
 	* `⌃H` move one space left
 	* `⌃L` move one space right
 
-[//]: # (Programming)
+### Programming
+The following is more helpful if you use command line tools but it may still be insightful otherwise.
+
+1. __Vi mode for terminal__
+	* `set -o vi` enables vi mode for your shell
+	* This enables you to hop into visual mode to edit your current input line and much more
+	* Add this command to the bottom of your ~/.bashrc file to enable by default
+
 [//]: # (TODO: Mosh)
 [//]: # (TODO: Tmux)
 [//]: # (TODO: Terminal alias)
-[//]: # (TODO: Terminal VIM shortcuts)
