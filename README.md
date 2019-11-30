@@ -28,10 +28,16 @@ VIM style arrow movement is utilized to avoid shifting hands to the arrow keys.
     * Divvy enables fast window resizing with a single hotkey of your choice
     * The following commands are user configurable
     * Shortcuts are accessible by `CMD + E` and typing the command
-      * `l` snap a window to the right half
-      * `h` snap a window to the left half
       * `space` snap a window to full screen
+      * `w` snap a window to the center (with padding)
+      * `h` snap a window to the left half
+      * `j` snap a window to the bottom half
+      * `k` snap a window to the bottom half
+      * `l` snap a window to the right half
       * `o` snap a window to the top right quarter
+      * `u` snap a window to the top left quarter
+      * `m` snap a window to the bottom right quarter
+      * `n` snap a window to the bottom left quarter
 
 [//]: # (TODO: MacOS window switching)
 
