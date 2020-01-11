@@ -41,10 +41,10 @@ VIM style arrow movement is utilized to avoid shifting hands to the arrow keys.
 
 
 3. __Mission control space switching__
-	* Note: `⌃` denotes control
-	* See: [pmoulton/keyboard](https://github.com/pmoulton/keyboard) for capslock to control/esc mod
-	* `⌃H` move one space left
-	* `⌃L` move one space right
+> Note: `⌃` denotes control
+* See: [pmoulton/keyboard](https://github.com/pmoulton/keyboard) for capslock to control/esc mod
+* `⌃H` move one space left
+* `⌃L` move one space right
 
 ### Programming
 The following is more helpful if you use command line tools but it may still be insightful otherwise.
